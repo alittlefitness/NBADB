@@ -1,0 +1,893 @@
+start_date,Team,Odds
+2023-10-10,Tampa Bay Lightning,1.621118012
+2023-10-10,Pittsburgh Penguins,1.4
+2023-10-10,Chicago Blackhawks,2.99
+2023-10-10,Nashville Predators,2.32
+2023-10-10,Seattle Kraken,2.35
+2023-10-10,Vegas Golden Knights,1.598802395
+2023-10-11,Boston Bruins,1.297619048
+2023-10-11,Ottawa Senators,2.57
+2023-10-11,Montreal Canadiens,3.31
+2023-10-11,Toronto Maple Leafs,1.337837838
+2023-10-11,Carolina Hurricanes,1.510204082
+2023-10-11,Chicago Blackhawks,3.61
+2023-10-11,Colorado Avalanche,1.78125
+2023-10-11,Winnipeg Jets,2.13
+2023-10-11,Calgary Flames,1.729927007
+2023-10-11,Edmonton Oilers,1.628930818
+2023-10-11,Los Angeles Kings,2.05
+2023-10-11,Vancouver Canucks,2.31
+2023-10-12,Buffalo Sabres,2.09
+2023-10-12,Detroit Red Wings,2.93
+2023-10-12,Florida Panthers,2.12
+2023-10-12,Columbus Blue Jackets,1.81300813
+2023-10-12,New Jersey Devils,1.414937759
+2023-10-12,New York Rangers,1.746268657
+2023-10-12,Philadelphia Flyers,2
+2023-10-12,Dallas Stars,1.465116279
+2023-10-12,Minnesota Wild,1.740740741
+2023-10-12,Nashville Predators,1.877192982
+2023-10-12,St Louis Blues,2.73
+2023-10-12,San Jose Sharks,3
+2023-10-12,Seattle Kraken,1.934579439
+2023-10-12,Vegas Golden Knights,1.4
+2023-10-13,New Jersey Devils,1.4048583
+2023-10-13,Pittsburgh Penguins,1.793650794
+2023-10-13,Washington Capitals,2.03
+2023-10-13,Arizona Coyotes,2.97
+2023-10-14,Tampa Bay Lightning,1.8
+2023-10-14,Boston Bruins,1.540540541
+2023-10-14,Buffalo Sabres,2.19
+2023-10-14,Detroit Red Wings,2.03
+2023-10-14,Florida Panthers,2.15
+2023-10-14,Ottawa Senators,2.2
+2023-10-14,Montreal Canadiens,1.662251656
+2023-10-14,Toronto Maple Leafs,1.578034682
+2023-10-14,Carolina Hurricanes,1.757575758
+2023-10-14,Columbus Blue Jackets,2.82
+2023-10-14,New York Islanders,1.694444444
+2023-10-14,New York Rangers,1.442477876
+2023-10-14,Philadelphia Flyers,2.53
+2023-10-14,Pittsburgh Penguins,1.917431193
+2023-10-14,Chicago Blackhawks,2.23
+2023-10-14,Colorado Avalanche,1.336700337
+2023-10-14,Minnesota Wild,2.42
+2023-10-14,Nashville Predators,2.49
+2023-10-14,St Louis Blues,1.934579439
+2023-10-14,Winnipeg Jets,1.714285714
+2023-10-14,Anaheim Ducks,3.6
+2023-10-14,Calgary Flames,1.892857143
+2023-10-14,Edmonton Oilers,1.434782609
+2023-10-14,Los Angeles Kings,2.09
+2023-10-14,San Jose Sharks,3.36
+2023-10-14,Seattle Kraken,1.877192982
+2023-10-14,Vancouver Canucks,2.86
+2023-10-14,Vegas Golden Knights,1.299401198
+2023-10-15,Tampa Bay Lightning,2.13
+2023-10-15,Ottawa Senators,1.724637681
+2023-10-15,Carolina Hurricanes,1.33557047
+2023-10-15,Anaheim Ducks,3.35
+2023-10-16,Detroit Red Wings,1.729927007
+2023-10-16,Florida Panthers,2.48
+2023-10-16,Toronto Maple Leafs,1.293255132
+2023-10-16,Columbus Blue Jackets,2.14
+2023-10-16,New Jersey Devils,1.568181818
+2023-10-16,New York Rangers,1.423728814
+2023-10-16,Washington Capitals,2.06
+2023-10-16,Arizona Coyotes,2.88
+2023-10-16,Chicago Blackhawks,3.65
+2023-10-16,Calgary Flames,1.775193798
+2023-10-17,Tampa Bay Lightning,2.04
+2023-10-17,Buffalo Sabres,1.793650794
+2023-10-17,Montreal Canadiens,2.19
+2023-10-17,Carolina Hurricanes,1.306748466
+2023-10-17,New York Islanders,1.490196078
+2023-10-17,Philadelphia Flyers,2.15
+2023-10-17,Arizona Coyotes,2.66
+2023-10-17,Colorado Avalanche,1.617283951
+2023-10-17,Dallas Stars,1.884955752
+2023-10-17,Minnesota Wild,1.684931507
+2023-10-17,Nashville Predators,2.11
+2023-10-17,Winnipeg Jets,1.709219858
+2023-10-17,Edmonton Oilers,1.746268657
+2023-10-17,Los Angeles Kings,2.17
+2023-10-17,San Jose Sharks,3.51
+2023-10-17,Seattle Kraken,2.33
+2023-10-17,Vancouver Canucks,1.71942446
+2023-10-17,Vegas Golden Knights,1.917431193
+2023-10-18,Detroit Red Wings,2.09
+2023-10-18,Ottawa Senators,1.558659218
+2023-10-18,Pittsburgh Penguins,1.757575758
+2023-10-18,Washington Capitals,2.45
+2023-10-19,Tampa Bay Lightning,1.740740741
+2023-10-19,Boston Bruins,1.35971223
+2023-10-19,Buffalo Sabres,1.99009901
+2023-10-19,Florida Panthers,2.11
+2023-10-19,Toronto Maple Leafs,1.735294118
+2023-10-19,Carolina Hurricanes,1.699300699
+2023-10-19,New York Rangers,1.510204082
+2023-10-19,Philadelphia Flyers,2.66
+2023-10-19,Arizona Coyotes,1.952380952
+2023-10-19,Chicago Blackhawks,3.81
+2023-10-19,Colorado Avalanche,1.272479564
+2023-10-19,Dallas Stars,1.398406375
+2023-10-19,Minnesota Wild,1.892857143
+2023-10-19,Nashville Predators,2.6
+2023-10-19,St Louis Blues,1.854700855
+2023-10-19,Winnipeg Jets,1.943396226
+2023-10-19,Anaheim Ducks,3.04
+2023-10-19,Calgary Flames,1.819672131
+2023-10-19,Edmonton Oilers,1.490196078
+2023-10-19,Los Angeles Kings,1.917431193
+2023-10-19,San Jose Sharks,3.2
+2023-10-19,Seattle Kraken,2.17
+2023-10-19,Vancouver Canucks,2.11
+2023-10-19,Vegas Golden Knights,1.869565217
+2023-10-20,Columbus Blue Jackets,2.25
+2023-10-20,New Jersey Devils,1.833333333
+2023-10-20,New York Islanders,1.99009901
+2023-10-20,Calgary Flames,1.657894737
+2023-10-21,Tampa Bay Lightning,2.19
+2023-10-21,Boston Bruins,1.909090909
+2023-10-21,Buffalo Sabres,1.787401575
+2023-10-21,Detroit Red Wings,2.33
+2023-10-21,Florida Panthers,1.680272109
+2023-10-21,Ottawa Senators,1.617283951
+2023-10-21,Montreal Canadiens,1.980392157
+2023-10-21,Toronto Maple Leafs,1.694444444
+2023-10-21,Carolina Hurricanes,2.25
+2023-10-21,Columbus Blue Jackets,2.86
+2023-10-21,New York Islanders,2.04
+2023-10-21,New York Rangers,1.840336134
+2023-10-21,Philadelphia Flyers,2.97
+2023-10-21,Pittsburgh Penguins,1.595238095
+2023-10-21,Washington Capitals,1.833333333
+2023-10-21,Arizona Coyotes,1.520833333
+2023-10-21,Chicago Blackhawks,2.8
+2023-10-21,Colorado Avalanche,1.657894737
+2023-10-21,Dallas Stars,1.4048583
+2023-10-21,Minnesota Wild,1.431034483
+2023-10-21,Nashville Predators,1.398406375
+2023-10-21,St Louis Blues,2.38
+2023-10-21,Winnipeg Jets,2.39
+2023-10-21,Anaheim Ducks,2.54
+2023-10-21,Edmonton Oilers,1.595238095
+2023-10-21,Los Angeles Kings,1.900900901
+2023-10-21,San Jose Sharks,3
+2023-10-21,Seattle Kraken,1.970873786
+2023-10-21,Vancouver Canucks,2.21
+2023-10-21,Vegas Golden Knights,1.448430493
+2023-10-22,Boston Bruins,1.4048583
+2023-10-22,Detroit Red Wings,2.17
+2023-10-22,Anaheim Ducks,2.97
+2023-10-22,Calgary Flames,1.704225352
+2023-10-23,Buffalo Sabres,1.523560209
+2023-10-23,Montreal Canadiens,2.56
+2023-10-24,Tampa Bay Lightning,2.07
+2023-10-24,Boston Bruins,1.425531915
+2023-10-24,Buffalo Sabres,2.54
+2023-10-24,Detroit Red Wings,1.81300813
+2023-10-24,Florida Panthers,1.384615385
+2023-10-24,Ottawa Senators,1.520833333
+2023-10-24,Montreal Canadiens,2.97
+2023-10-24,Toronto Maple Leafs,1.571428571
+2023-10-24,Carolina Hurricanes,1.763358779
+2023-10-24,Columbus Blue Jackets,1.653594771
+2023-10-24,New Jersey Devils,1.408163265
+2023-10-24,New York Islanders,2.13
+2023-10-24,New York Rangers,1.746268657
+2023-10-24,Philadelphia Flyers,2.65
+2023-10-24,Pittsburgh Penguins,2.08
+2023-10-24,Washington Capitals,2.42
+2023-10-24,Arizona Coyotes,2.58
+2023-10-24,Chicago Blackhawks,2.89
+2023-10-24,Colorado Avalanche,1.724637681
+2023-10-24,Dallas Stars,1.757575758
+2023-10-24,Minnesota Wild,1.892857143
+2023-10-24,Nashville Predators,1.769230769
+2023-10-24,St Louis Blues,2.52
+2023-10-24,Winnipeg Jets,1.531914894
+2023-10-24,Anaheim Ducks,2.24
+2023-10-24,Calgary Flames,2.1
+2023-10-24,Edmonton Oilers,1.909090909
+2023-10-24,Los Angeles Kings,1.515463918
+2023-10-24,San Jose Sharks,3.06
+2023-10-24,Seattle Kraken,2.01
+2023-10-24,Vancouver Canucks,2.07
+2023-10-24,Vegas Golden Knights,1.492610837
+2023-10-25,New Jersey Devils,1.4
+2023-10-25,Washington Capitals,3.03
+2023-10-26,Tampa Bay Lightning,1.336700337
+2023-10-26,Boston Bruins,1.321543408
+2023-10-26,Detroit Red Wings,2.06
+2023-10-26,Ottawa Senators,2.02
+2023-10-26,Montreal Canadiens,1.854700855
+2023-10-26,Toronto Maple Leafs,1.925925926
+2023-10-26,Carolina Hurricanes,1.5
+2023-10-26,Columbus Blue Jackets,1.952380952
+2023-10-26,New York Islanders,1.806451613
+2023-10-26,New York Rangers,1.793650794
+2023-10-26,Philadelphia Flyers,1.980392157
+2023-10-26,Pittsburgh Penguins,2.21
+2023-10-26,Colorado Avalanche,1.67114094
+2023-10-26,Dallas Stars,1.884955752
+2023-10-26,Minnesota Wild,1.840336134
+2023-10-26,St Louis Blues,2.52
+2023-10-26,Winnipeg Jets,1.775193798
+2023-10-26,Anaheim Ducks,3.45
+2023-10-26,Calgary Flames,1.531914894
+2023-10-26,Edmonton Oilers,2.04
+2023-10-26,San Jose Sharks,3.33
+2023-10-26,Seattle Kraken,2.63
+2023-10-27,Buffalo Sabres,2.59
+2023-10-27,Carolina Hurricanes,1.235849057
+2023-10-27,New Jersey Devils,1.512820513
+2023-10-27,Washington Capitals,1.78125
+2023-10-27,Arizona Coyotes,2.17
+2023-10-27,Chicago Blackhawks,3.74
+2023-10-27,Minnesota Wild,2.06
+2023-10-27,St Louis Blues,2.59
+2023-10-27,Los Angeles Kings,1.704225352
+2023-10-27,San Jose Sharks,4.24
+2023-10-27,Vancouver Canucks,1.512820513
+2023-10-27,Vegas Golden Knights,1.285714286
+2023-10-28,Boston Bruins,1.512820513
+2023-10-28,Detroit Red Wings,2.58
+2023-10-28,Florida Panthers,1.67114094
+2023-10-28,Ottawa Senators,2.23
+2023-10-28,Montreal Canadiens,2.29
+2023-10-28,Toronto Maple Leafs,1.709219858
+2023-10-28,Columbus Blue Jackets,2.21
+2023-10-28,New York Islanders,1.67114094
+2023-10-28,New York Rangers,1.588235294
+2023-10-28,Philadelphia Flyers,1.591715976
+2023-10-28,Pittsburgh Penguins,1.666666667
+2023-10-28,Nashville Predators,2.16
+2023-10-28,Winnipeg Jets,1.632911392
+2023-10-28,Anaheim Ducks,2.39
+2023-10-28,Los Angeles Kings,1.917431193
+2023-10-28,Seattle Kraken,2.21
+2023-10-28,Vancouver Canucks,2.39
+2023-10-28,Vegas Golden Knights,1.892857143
+2023-10-29,Buffalo Sabres,2.52
+2023-10-29,New Jersey Devils,1.598802395
+2023-10-29,Washington Capitals,1.448430493
+2023-10-29,Colorado Avalanche,1.531914894
+2023-10-29,Minnesota Wild,2.39
+2023-10-29,Calgary Flames,2.35
+2023-10-29,Edmonton Oilers,1.606060606
+2023-10-29,San Jose Sharks,2.8
+2023-10-30,Tampa Bay Lightning,1.684931507
+2023-10-30,Boston Bruins,1.602409639
+2023-10-30,Detroit Red Wings,2.35
+2023-10-30,Florida Panthers,2.37
+2023-10-30,Montreal Canadiens,2.96
+2023-10-30,Carolina Hurricanes,1.529100529
+2023-10-30,Columbus Blue Jackets,3.22
+2023-10-30,New York Islanders,1.606060606
+2023-10-30,New York Rangers,1.806451613
+2023-10-30,Philadelphia Flyers,2.54
+2023-10-30,Pittsburgh Penguins,1.4048583
+2023-10-30,Arizona Coyotes,1.520833333
+2023-10-30,Chicago Blackhawks,2.54
+2023-10-30,Dallas Stars,1.357142857
+2023-10-30,Winnipeg Jets,2.01
+2023-10-30,Anaheim Ducks,3
+2023-10-30,Seattle Kraken,2.19
+2023-10-30,Vegas Golden Knights,1.406504065
+2023-10-31,Toronto Maple Leafs,1.641025641
+2023-10-31,Nashville Predators,2.26
+2023-10-31,Los Angeles Kings,2.28
+2023-10-31,Vancouver Canucks,1.649350649
+2023-11-01,Buffalo Sabres,1.900900901
+2023-11-01,Philadelphia Flyers,1.909090909
+2023-11-01,Arizona Coyotes,1.735294118
+2023-11-01,Colorado Avalanche,1.409836066
+2023-11-01,Dallas Stars,1.704225352
+2023-11-01,St Louis Blues,2.95
+2023-11-01,Anaheim Ducks,2.12
+2023-11-01,Calgary Flames,2.17
+2023-11-02,Tampa Bay Lightning,1.609756098
+2023-11-02,Boston Bruins,1.917431193
+2023-11-02,Detroit Red Wings,2.01
+2023-11-02,Florida Panthers,1.81300813
+2023-11-02,Ottawa Senators,1.917431193
+2023-11-02,Montreal Canadiens,2.05
+2023-11-02,Toronto Maple Leafs,1.884955752
+2023-11-02,Carolina Hurricanes,1.934579439
+2023-11-02,Columbus Blue Jackets,2.36
+2023-11-02,New Jersey Devils,1.869565217
+2023-11-02,New York Islanders,1.840336134
+2023-11-02,New York Rangers,1.869565217
+2023-11-02,Washington Capitals,1.980392157
+2023-11-02,Arizona Coyotes,1.78125
+2023-11-02,Dallas Stars,2.22
+2023-11-02,Minnesota Wild,1.943396226
+2023-11-02,Nashville Predators,2.01
+2023-11-02,Winnipeg Jets,2.15
+2023-11-02,Edmonton Oilers,1.675675676
+2023-11-02,Los Angeles Kings,1.884955752
+2023-11-02,San Jose Sharks,2.89
+2023-11-02,Seattle Kraken,1.806451613
+2023-11-02,Vancouver Canucks,1.427350427
+2023-11-02,Vegas Golden Knights,1.714285714
+2023-11-03,Buffalo Sabres,1.584795322
+2023-11-03,New Jersey Devils,1.657894737
+2023-11-03,Philadelphia Flyers,2.4
+2023-11-03,St Louis Blues,2.24
+2023-11-04,Tampa Bay Lightning,1.970873786
+2023-11-04,Boston Bruins,1.729927007
+2023-11-04,Buffalo Sabres,2.77
+2023-11-04,Detroit Red Wings,2.12
+2023-11-04,Florida Panthers,1.502512563
+2023-11-04,Ottawa Senators,1.840336134
+2023-11-04,Montreal Canadiens,1.99009901
+2023-11-04,Toronto Maple Leafs,1.452488688
+2023-11-04,Carolina Hurricanes,1.757575758
+2023-11-04,Columbus Blue Jackets,2.21
+2023-11-04,New York Islanders,2.08
+2023-11-04,New York Rangers,1.952380952
+2023-11-04,Philadelphia Flyers,2.56
+2023-11-04,Pittsburgh Penguins,1.37593985
+2023-11-04,Washington Capitals,1.67114094
+2023-11-04,Arizona Coyotes,2.14
+2023-11-04,Chicago Blackhawks,2.62
+2023-11-04,Colorado Avalanche,1.869565217
+2023-11-04,Dallas Stars,1.819672131
+2023-11-04,Minnesota Wild,1.854700855
+2023-11-04,Nashville Predators,2.69
+2023-11-04,St Louis Blues,1.826446281
+2023-11-04,Winnipeg Jets,1.71942446
+2023-11-04,Calgary Flames,1.961538462
+2023-11-04,Edmonton Oilers,1.480769231
+2023-11-04,Los Angeles Kings,1.523560209
+2023-11-04,San Jose Sharks,3.11
+2023-11-04,Seattle Kraken,1.847457627
+2023-11-04,Vancouver Canucks,2.01
+2023-11-04,Vegas Golden Knights,1.943396226
+2023-11-05,New Jersey Devils,1.473933649
+2023-11-05,Chicago Blackhawks,2.72
+2023-11-05,Anaheim Ducks,2.48
+2023-11-05,Vegas Golden Knights,1.546448087
+2023-11-06,Tampa Bay Lightning,2.27
+2023-11-06,Boston Bruins,2.2
+2023-11-06,Florida Panthers,1.431034483
+2023-11-06,Toronto Maple Leafs,1.64516129
+2023-11-06,Columbus Blue Jackets,2.89
+2023-11-06,Dallas Stars,1.680272109
+2023-11-06,Edmonton Oilers,1.909090909
+2023-11-06,Vancouver Canucks,1.892857143
+2023-11-07,Tampa Bay Lightning,1.740740741
+2023-11-07,Buffalo Sabres,2.85
+2023-11-07,Detroit Red Wings,2.27
+2023-11-07,Montreal Canadiens,2.11
+2023-11-07,Carolina Hurricanes,1.436681223
+2023-11-07,New Jersey Devils,2.58
+2023-11-07,New York Islanders,1.884955752
+2023-11-07,New York Rangers,1.64516129
+2023-11-07,Philadelphia Flyers,1.462962963
+2023-11-07,Pittsburgh Penguins,1.543478261
+2023-11-07,Arizona Coyotes,1.909090909
+2023-11-07,Colorado Avalanche,1.512820513
+2023-11-07,Minnesota Wild,1.925925926
+2023-11-07,Nashville Predators,2.07
+2023-11-07,St Louis Blues,2.18
+2023-11-07,Winnipeg Jets,1.694444444
+2023-11-07,Anaheim Ducks,2.5
+2023-11-07,Calgary Flames,1.763358779
+2023-11-07,San Jose Sharks,2.74
+2023-11-07,Seattle Kraken,1.900900901
+2023-11-08,Florida Panthers,1.689655172
+2023-11-08,Ottawa Senators,2.39
+2023-11-08,Toronto Maple Leafs,1.581395349
+2023-11-08,Washington Capitals,2.18
+2023-11-08,Los Angeles Kings,2.04
+2023-11-08,Vegas Golden Knights,1.78125
+2023-11-09,Tampa Bay Lightning,1.411522634
+2023-11-09,Boston Bruins,1.709219858
+2023-11-09,Detroit Red Wings,1.526315789
+2023-11-09,Ottawa Senators,2.02
+2023-11-09,Montreal Canadiens,2.54
+2023-11-09,Columbus Blue Jackets,2.79
+2023-11-09,New York Islanders,2.16
+2023-11-09,New York Rangers,1.81300813
+2023-11-09,Pittsburgh Penguins,2.02
+2023-11-09,Arizona Coyotes,1.970873786
+2023-11-09,Chicago Blackhawks,2.94
+2023-11-09,Colorado Avalanche,1.495049505
+2023-11-09,Dallas Stars,1.446428571
+2023-11-09,Minnesota Wild,2.01
+2023-11-09,Nashville Predators,2.1
+2023-11-09,St Louis Blues,1.840336134
+2023-11-09,Winnipeg Jets,1.751879699
+2023-11-09,Edmonton Oilers,1.286532951
+2023-11-09,Los Angeles Kings,1.8
+2023-11-09,San Jose Sharks,3.71
+2023-11-09,Seattle Kraken,2.64
+2023-11-09,Vancouver Canucks,1.806451613
+2023-11-10,Buffalo Sabres,1.847457627
+2023-11-10,Florida Panthers,2.11
+2023-11-10,Toronto Maple Leafs,1.632911392
+2023-11-10,Carolina Hurricanes,1.740740741
+2023-11-10,New Jersey Devils,1.502512563
+2023-11-10,Philadelphia Flyers,1.840336134
+2023-11-10,Washington Capitals,2.63
+2023-11-10,Minnesota Wild,1.952380952
+2023-11-10,Anaheim Ducks,1.970873786
+2023-11-10,Calgary Flames,2.3
+2023-11-10,San Jose Sharks,4.92
+2023-11-10,Vegas Golden Knights,1.186219739
+2023-11-11,Tampa Bay Lightning,2.11
+2023-11-11,Boston Bruins,1.497512438
+2023-11-11,Buffalo Sabres,2.56
+2023-11-11,Detroit Red Wings,1.584795322
+2023-11-11,Ottawa Senators,1.704225352
+2023-11-11,Montreal Canadiens,2.64
+2023-11-11,Toronto Maple Leafs,1.826446281
+2023-11-11,Carolina Hurricanes,1.746268657
+2023-11-11,Columbus Blue Jackets,2.38
+2023-11-11,New York Islanders,1.558659218
+2023-11-11,Philadelphia Flyers,2.87
+2023-11-11,Pittsburgh Penguins,1.515463918
+2023-11-11,Washington Capitals,2.45
+2023-11-11,Arizona Coyotes,2.26
+2023-11-11,Colorado Avalanche,1.41322314
+2023-11-11,Dallas Stars,1.917431193
+2023-11-11,Nashville Predators,1.649350649
+2023-11-11,St Louis Blues,2.92
+2023-11-11,Winnipeg Jets,1.877192982
+2023-11-11,Calgary Flames,2.16
+2023-11-11,Edmonton Oilers,1.746268657
+2023-11-11,Los Angeles Kings,1.421940928
+2023-11-11,Seattle Kraken,2.11
+2023-11-11,Vancouver Canucks,1.980392157
+2023-11-12,Florida Panthers,1.341296928
+2023-11-12,Montreal Canadiens,2.4
+2023-11-12,Columbus Blue Jackets,2.93
+2023-11-12,New York Rangers,1.411522634
+2023-11-12,Chicago Blackhawks,3.31
+2023-11-12,Dallas Stars,1.854700855
+2023-11-12,Minnesota Wild,1.961538462
+2023-11-12,Anaheim Ducks,1.495049505
+2023-11-12,San Jose Sharks,2.64
+2023-11-12,Vancouver Canucks,1.574712644
+2023-11-13,New York Islanders,2.31
+2023-11-13,Colorado Avalanche,1.64516129
+2023-11-13,Edmonton Oilers,1.628930818
+2023-11-13,Seattle Kraken,2.27
+2023-11-14,Tampa Bay Lightning,1.746268657
+2023-11-14,Boston Bruins,1.653594771
+2023-11-14,Buffalo Sabres,2.25
+2023-11-14,Florida Panthers,1.346020761
+2023-11-14,Montreal Canadiens,2.33
+2023-11-14,Columbus Blue Jackets,2.53
+2023-11-14,New Jersey Devils,2.2
+2023-11-14,Pittsburgh Penguins,1.531914894
+2023-11-14,Washington Capitals,2.29
+2023-11-14,Arizona Coyotes,2.91
+2023-11-14,Dallas Stars,1.416666667
+2023-11-14,Nashville Predators,1.540540541
+2023-11-14,St Louis Blues,2.1
+2023-11-14,Winnipeg Jets,1.680272109
+2023-11-14,Anaheim Ducks,2.51
+2023-11-14,Calgary Flames,1.613496933
+2023-11-14,San Jose Sharks,3.27
+2023-11-14,Vegas Golden Knights,1.632911392
+2023-11-15,Carolina Hurricanes,1.432900433
+2023-11-15,New York Islanders,2.28
+2023-11-15,Philadelphia Flyers,2.85
+2023-11-15,Colorado Avalanche,1.320512821
+2023-11-15,Anaheim Ducks,3.45
+2023-11-15,Edmonton Oilers,1.507614213
+2023-11-15,Seattle Kraken,2.6
+2023-11-15,Vancouver Canucks,1.632911392
+2023-11-16,Tampa Bay Lightning,1.520833333
+2023-11-16,Detroit Red Wings,2.06
+2023-11-16,Florida Panthers,2.07
+2023-11-16,Ottawa Senators,1.769230769
+2023-11-16,Montreal Canadiens,2.63
+2023-11-16,Columbus Blue Jackets,1.980392157
+2023-11-16,New Jersey Devils,2.25
+2023-11-16,New York Islanders,1.943396226
+2023-11-16,Pittsburgh Penguins,1.649350649
+2023-11-16,Arizona Coyotes,1.826446281
+2023-11-16,Chicago Blackhawks,2.55
+2023-11-16,St Louis Blues,1.434782609
+2023-11-16,Calgary Flames,1.662251656
+2023-11-16,Los Angeles Kings,1.763358779
+2023-11-16,San Jose Sharks,2.84
+2023-11-16,Seattle Kraken,1.862068966
+2023-11-16,Vancouver Canucks,2.23
+2023-11-16,Vegas Golden Knights,1.492610837
+2023-11-17,Buffalo Sabres,2.53
+2023-11-17,Detroit Red Wings,2.48
+2023-11-17,Florida Panthers,1.552486188
+2023-11-17,Toronto Maple Leafs,1.546448087
+2023-11-17,Winnipeg Jets,1.523560209
+2023-11-17,Anaheim Ducks,2.47
+2023-11-18,Tampa Bay Lightning,2.1
+2023-11-18,Boston Bruins,1.367647059
+2023-11-18,Ottawa Senators,1.934579439
+2023-11-18,Montreal Canadiens,3.15
+2023-11-18,Carolina Hurricanes,1.574712644
+2023-11-18,Columbus Blue Jackets,2.3
+2023-11-18,New Jersey Devils,1.869565217
+2023-11-18,New York Islanders,2.18
+2023-11-18,New York Rangers,1.925925926
+2023-11-18,Philadelphia Flyers,2.31
+2023-11-18,Pittsburgh Penguins,2.4
+2023-11-18,Washington Capitals,1.632911392
+2023-11-18,Arizona Coyotes,2.24
+2023-11-18,Chicago Blackhawks,2.57
+2023-11-18,Colorado Avalanche,2.07
+2023-11-18,Dallas Stars,1.769230769
+2023-11-18,Minnesota Wild,1.869565217
+2023-11-18,Nashville Predators,1.520833333
+2023-11-18,St Louis Blues,2.54
+2023-11-18,Winnipeg Jets,1.662251656
+2023-11-18,Calgary Flames,1.699300699
+2023-11-18,Edmonton Oilers,1.751879699
+2023-11-18,Los Angeles Kings,1.518134715
+2023-11-18,Seattle Kraken,2.32
+2023-11-18,Vancouver Canucks,1.621118012
+2023-11-18,Vegas Golden Knights,1.621118012
+2023-11-19,Buffalo Sabres,1.561797753
+2023-11-19,Toronto Maple Leafs,1.581395349
+2023-11-19,Columbus Blue Jackets,2.39
+2023-11-19,Philadelphia Flyers,1.581395349
+2023-11-19,Pittsburgh Penguins,2.01
+2023-11-19,Chicago Blackhawks,2.45
+2023-11-19,Minnesota Wild,2.41
+2023-11-19,St Louis Blues,1.917431193
+2023-11-19,Anaheim Ducks,1.884955752
+2023-11-19,Vegas Golden Knights,1.81300813
+2023-11-20,Tampa Bay Lightning,2.16
+2023-11-20,Boston Bruins,1.709219858
+2023-11-20,Florida Panthers,1.847457627
+2023-11-20,New York Rangers,2.09
+2023-11-20,Arizona Coyotes,2.24
+2023-11-20,Colorado Avalanche,1.602409639
+2023-11-20,Dallas Stars,1.751879699
+2023-11-20,Nashville Predators,2.36
+2023-11-20,Calgary Flames,1.952380952
+2023-11-20,Edmonton Oilers,1.961538462
+2023-11-20,Los Angeles Kings,1.657894737
+2023-11-20,San Jose Sharks,3.86
+2023-11-20,Seattle Kraken,1.854700855
+2023-11-20,Vancouver Canucks,1.273224044
+2023-11-22,Tampa Bay Lightning,1.917431193
+2023-11-22,Boston Bruins,1.909090909
+2023-11-22,Buffalo Sabres,2.07
+2023-11-22,Detroit Red Wings,2.27
+2023-11-22,Florida Panthers,1.900900901
+2023-11-22,Montreal Canadiens,2.03
+2023-11-22,Carolina Hurricanes,1.684931507
+2023-11-22,Columbus Blue Jackets,1.694444444
+2023-11-22,New Jersey Devils,1.64516129
+2023-11-22,New York Islanders,1.628930818
+2023-11-22,New York Rangers,1.980392157
+2023-11-22,Philadelphia Flyers,2.3
+2023-11-22,Pittsburgh Penguins,1.833333333
+2023-11-22,Washington Capitals,1.769230769
+2023-11-22,Arizona Coyotes,1.819672131
+2023-11-22,Chicago Blackhawks,2.19
+2023-11-22,Colorado Avalanche,1.574712644
+2023-11-22,Dallas Stars,1.740740741
+2023-11-22,Nashville Predators,1.909090909
+2023-11-22,St Louis Blues,1.99009901
+2023-11-22,Winnipeg Jets,1.884955752
+2023-11-22,Anaheim Ducks,1.8
+2023-11-22,Calgary Flames,1.892857143
+2023-11-22,Edmonton Oilers,2.2
+2023-11-22,San Jose Sharks,3.35
+2023-11-22,Seattle Kraken,1.338983051
+2023-11-22,Vancouver Canucks,2.41
+2023-11-22,Vegas Golden Knights,2.11
+2023-11-24,Tampa Bay Lightning,2.38
+2023-11-24,Boston Bruins,1.487804878
+2023-11-24,Buffalo Sabres,1.99009901
+2023-11-24,Detroit Red Wings,2.66
+2023-11-24,Florida Panthers,1.680272109
+2023-11-24,Ottawa Senators,1.740740741
+2023-11-24,Montreal Canadiens,1.67114094
+2023-11-24,Toronto Maple Leafs,1.384615385
+2023-11-24,Carolina Hurricanes,1.595238095
+2023-11-24,Columbus Blue Jackets,3
+2023-11-24,New Jersey Devils,1.4
+2023-11-24,New York Islanders,2.11
+2023-11-24,New York Rangers,1.666666667
+2023-11-24,Philadelphia Flyers,2.23
+2023-11-24,Pittsburgh Penguins,1.819672131
+2023-11-24,Washington Capitals,2.18
+2023-11-24,Chicago Blackhawks,3.1
+2023-11-24,Colorado Avalanche,1.757575758
+2023-11-24,Dallas Stars,1.555555556
+2023-11-24,Minnesota Wild,2.08
+2023-11-24,Nashville Predators,1.909090909
+2023-11-24,St Louis Blues,1.909090909
+2023-11-24,Winnipeg Jets,2.2
+2023-11-24,Anaheim Ducks,2.63
+2023-11-24,Calgary Flames,2.46
+2023-11-24,Edmonton Oilers,1.689655172
+2023-11-24,Los Angeles Kings,1.497512438
+2023-11-24,San Jose Sharks,2.22
+2023-11-24,Seattle Kraken,1.952380952
+2023-11-24,Vancouver Canucks,1.854700855
+2023-11-25,Boston Bruins,1.854700855
+2023-11-25,Buffalo Sabres,2.56
+2023-11-25,Montreal Canadiens,3.16
+2023-11-25,Toronto Maple Leafs,1.826446281
+2023-11-25,New Jersey Devils,1.523560209
+2023-11-25,New York Islanders,1.636942675
+2023-11-25,New York Rangers,1.952380952
+2023-11-25,Philadelphia Flyers,2.28
+2023-11-25,Pittsburgh Penguins,2
+2023-11-25,Arizona Coyotes,2.73
+2023-11-25,Colorado Avalanche,1.598802395
+2023-11-25,Calgary Flames,2.38
+2023-11-25,Los Angeles Kings,1.363636364
+2023-11-25,San Jose Sharks,3.22
+2023-11-25,Vancouver Canucks,1.358422939
+2023-11-25,Vegas Golden Knights,1.469483568
+2023-11-26,Detroit Red Wings,1.943396226
+2023-11-26,Carolina Hurricanes,1.322580645
+2023-11-26,Columbus Blue Jackets,3.43
+2023-11-26,Chicago Blackhawks,2.28
+2023-11-26,Minnesota Wild,1.862068966
+2023-11-26,Nashville Predators,1.884955752
+2023-11-26,St Louis Blues,1.636942675
+2023-11-26,Winnipeg Jets,1.917431193
+2023-11-26,Anaheim Ducks,3.35
+2023-11-26,Edmonton Oilers,1.333333333
+2023-11-27,Tampa Bay Lightning,2.11
+2023-11-27,Boston Bruins,1.357142857
+2023-11-27,Buffalo Sabres,2.86
+2023-11-27,Florida Panthers,1.746268657
+2023-11-27,Ottawa Senators,2.1
+2023-11-27,Columbus Blue Jackets,3.22
+2023-11-27,New York Rangers,1.427350427
+2023-11-27,Washington Capitals,1.41322314
+2023-11-27,Colorado Avalanche,1.746268657
+2023-11-27,Calgary Flames,1.970873786
+2023-11-27,San Jose Sharks,2.91
+2023-11-27,Vegas Golden Knights,1.840336134
+2023-11-28,Tampa Bay Lightning,1.826446281
+2023-11-28,Florida Panthers,2.16
+2023-11-28,Toronto Maple Leafs,1.709219858
+2023-11-28,Carolina Hurricanes,1.621118012
+2023-11-28,New Jersey Devils,1.588235294
+2023-11-28,New York Islanders,2.38
+2023-11-28,Philadelphia Flyers,2.32
+2023-11-28,Pittsburgh Penguins,1.892857143
+2023-11-28,Arizona Coyotes,2
+2023-11-28,Chicago Blackhawks,2.52
+2023-11-28,Dallas Stars,1.833333333
+2023-11-28,Minnesota Wild,1.617283951
+2023-11-28,Nashville Predators,1.917431193
+2023-11-28,St Louis Blues,2.33
+2023-11-28,Winnipeg Jets,1.980392157
+2023-11-28,Anaheim Ducks,3.13
+2023-11-28,Edmonton Oilers,1.67114094
+2023-11-28,Seattle Kraken,1.543478261
+2023-11-28,Vancouver Canucks,1.373134328
+2023-11-28,Vegas Golden Knights,2.22
+2023-11-29,Detroit Red Wings,2.66
+2023-11-29,Montreal Canadiens,2.11
+2023-11-29,Columbus Blue Jackets,1.746268657
+2023-11-29,New York Rangers,1.487804878
+2023-11-29,Washington Capitals,2.76
+2023-11-29,Los Angeles Kings,1.454545455
+2023-11-30,Tampa Bay Lightning,1.724637681
+2023-11-30,Boston Bruins,1.199203187
+2023-11-30,Buffalo Sabres,2.04
+2023-11-30,Detroit Red Wings,1.512820513
+2023-11-30,Florida Panthers,1.401606426
+2023-11-30,Montreal Canadiens,2.99
+2023-11-30,Toronto Maple Leafs,1.543478261
+2023-11-30,Carolina Hurricanes,1.46728972
+2023-11-30,New Jersey Devils,1.699300699
+2023-11-30,New York Islanders,2.71
+2023-11-30,Philadelphia Flyers,2.18
+2023-11-30,Pittsburgh Penguins,2.13
+2023-11-30,Washington Capitals,1.826446281
+2023-11-30,Arizona Coyotes,2.64
+2023-11-30,Chicago Blackhawks,2.57
+2023-11-30,Colorado Avalanche,1.5
+2023-11-30,Dallas Stars,1.775193798
+2023-11-30,Minnesota Wild,2.02
+2023-11-30,Nashville Predators,1.81300813
+2023-11-30,St Louis Blues,1.8
+2023-11-30,Winnipeg Jets,1.961538462
+2023-11-30,Anaheim Ducks,2
+2023-11-30,Calgary Flames,2.06
+2023-11-30,Edmonton Oilers,1.847457627
+2023-11-30,San Jose Sharks,4.67
+2023-11-30,Seattle Kraken,2.51
+2023-11-30,Vancouver Canucks,1.806451613
+2023-11-30,Vegas Golden Knights,2.02
+2023-12-01,Ottawa Senators,1.609756098
+2023-12-01,Columbus Blue Jackets,2.35
+2023-12-01,New Jersey Devils,1.210526316
+2023-12-01,San Jose Sharks,4.52
+2023-12-02,Tampa Bay Lightning,2.23
+2023-12-02,Boston Bruins,1.892857143
+2023-12-02,Buffalo Sabres,2.96
+2023-12-02,Detroit Red Wings,1.632911392
+2023-12-02,Florida Panthers,1.549450549
+2023-12-02,Ottawa Senators,1.806451613
+2023-12-02,Montreal Canadiens,2.29
+2023-12-02,Toronto Maple Leafs,1.917431193
+2023-12-02,Carolina Hurricanes,1.409836066
+2023-12-02,New York Islanders,2.47
+2023-12-02,New York Rangers,1.598802395
+2023-12-02,Philadelphia Flyers,2.4
+2023-12-02,Pittsburgh Penguins,1.588235294
+2023-12-02,Washington Capitals,2.58
+2023-12-02,Arizona Coyotes,1.787401575
+2023-12-02,Chicago Blackhawks,3.3
+2023-12-02,Colorado Avalanche,1.438596491
+2023-12-02,Dallas Stars,1.67114094
+2023-12-02,Nashville Predators,2.38
+2023-12-02,St Louis Blues,2.04
+2023-12-02,Winnipeg Jets,1.338983051
+2023-12-02,Anaheim Ducks,2.85
+2023-12-02,Calgary Flames,1.826446281
+2023-12-02,Seattle Kraken,2.01
+2023-12-02,Vancouver Canucks,2
+2023-12-02,Vegas Golden Knights,1.518134715
+2023-12-03,Boston Bruins,1.374531835
+2023-12-03,Buffalo Sabres,1.909090909
+2023-12-03,Columbus Blue Jackets,3.1
+2023-12-03,New York Rangers,1.245700246
+2023-12-03,Chicago Blackhawks,3.53
+2023-12-03,Colorado Avalanche,2.26
+2023-12-03,Minnesota Wild,1.309597523
+2023-12-03,Nashville Predators,1.892857143
+2023-12-03,Los Angeles Kings,1.653594771
+2023-12-03,San Jose Sharks,4.12
+2023-12-04,Tampa Bay Lightning,1.99009901
+2023-12-04,Montreal Canadiens,2.32
+2023-12-04,Carolina Hurricanes,1.689655172
+2023-12-04,Philadelphia Flyers,1.970873786
+2023-12-04,Pittsburgh Penguins,1.833333333
+2023-12-04,Washington Capitals,2.09
+2023-12-04,Arizona Coyotes,1.763358779
+2023-12-04,Dallas Stars,1.833333333
+2023-12-04,St Louis Blues,2.6
+2023-12-04,Winnipeg Jets,2.2
+2023-12-04,Seattle Kraken,1.617283951
+2023-12-04,Vegas Golden Knights,1.502512563
+2023-12-05,Buffalo Sabres,2.07
+2023-12-05,Detroit Red Wings,1.763358779
+2023-12-05,Ottawa Senators,2.25
+2023-12-05,Columbus Blue Jackets,2.75
+2023-12-05,New Jersey Devils,1.900900901
+2023-12-05,New York Islanders,1.305810398
+2023-12-05,New York Rangers,1.653594771
+2023-12-05,Chicago Blackhawks,2.5
+2023-12-05,Colorado Avalanche,1.364963504
+2023-12-05,Minnesota Wild,1.909090909
+2023-12-05,Nashville Predators,1.540540541
+2023-12-05,Anaheim Ducks,3.18
+2023-12-05,Calgary Flames,1.909090909
+2023-12-05,Los Angeles Kings,1.46728972
+2023-12-05,San Jose Sharks,3.52
+2023-12-05,Vancouver Canucks,1.909090909
+2023-12-06,Tampa Bay Lightning,1.740740741
+2023-12-06,Florida Panthers,1.833333333
+2023-12-06,Carolina Hurricanes,1.943396226
+2023-12-06,Pittsburgh Penguins,2.12
+2023-12-06,Dallas Stars,1.980392157
+2023-12-06,St Louis Blues,2.39
+2023-12-06,Edmonton Oilers,1.862068966
+2023-12-06,Vegas Golden Knights,1.595238095
+2023-12-07,Tampa Bay Lightning,2.12
+2023-12-07,Boston Bruins,1.373134328
+2023-12-07,Buffalo Sabres,3.14
+2023-12-07,Detroit Red Wings,1.340136054
+2023-12-07,Ottawa Senators,2.08
+2023-12-07,Montreal Canadiens,2.78
+2023-12-07,Toronto Maple Leafs,1.769230769
+2023-12-07,Carolina Hurricanes,1.769230769
+2023-12-07,Columbus Blue Jackets,2.53
+2023-12-07,New Jersey Devils,1.694444444
+2023-12-07,New York Islanders,1.531914894
+2023-12-07,Philadelphia Flyers,1.877192982
+2023-12-07,Washington Capitals,2.21
+2023-12-07,Arizona Coyotes,1.934579439
+2023-12-07,Chicago Blackhawks,1.925925926
+2023-12-07,Colorado Avalanche,1.704225352
+2023-12-07,Dallas Stars,1.684931507
+2023-12-07,Minnesota Wild,1.970873786
+2023-12-07,Nashville Predators,1.735294118
+2023-12-07,Winnipeg Jets,2.17
+2023-12-07,Anaheim Ducks,1.877192982
+2023-12-07,Calgary Flames,2.08
+2023-12-07,Los Angeles Kings,1.452488688
+2023-12-07,San Jose Sharks,3.32
+2023-12-07,Seattle Kraken,2.19
+2023-12-07,Vancouver Canucks,1.847457627
+2023-12-08,Florida Panthers,1.613496933
+2023-12-08,Columbus Blue Jackets,2.25
+2023-12-08,Pittsburgh Penguins,2.34
+2023-12-08,Minnesota Wild,2.59
+2023-12-08,St Louis Blues,1.64516129
+2023-12-08,Edmonton Oilers,1.515463918
+2023-12-09,Tampa Bay Lightning,1.840336134
+2023-12-09,Boston Bruins,1.454545455
+2023-12-09,Buffalo Sabres,1.555555556
+2023-12-09,Detroit Red Wings,1.806451613
+2023-12-09,Ottawa Senators,2.02
+2023-12-09,Montreal Canadiens,2.47
+2023-12-09,Toronto Maple Leafs,1.621118012
+2023-12-09,Carolina Hurricanes,1.751879699
+2023-12-09,New Jersey Devils,1.806451613
+2023-12-09,New York Islanders,2.22
+2023-12-09,New York Rangers,1.529100529
+2023-12-09,Philadelphia Flyers,2.45
+2023-12-09,Washington Capitals,2.53
+2023-12-09,Arizona Coyotes,2.76
+2023-12-09,Chicago Blackhawks,2.14
+2023-12-09,Colorado Avalanche,1.558659218
+2023-12-09,Dallas Stars,1.826446281
+2023-12-09,Nashville Predators,2.34
+2023-12-09,St Louis Blues,1.724637681
+2023-12-09,Calgary Flames,2.01
+2023-12-09,Los Angeles Kings,1.67114094
+2023-12-09,Seattle Kraken,1.970873786
+2023-12-09,Vancouver Canucks,2.09
+2023-12-09,Vegas Golden Knights,1.99009901
+2023-12-10,Florida Panthers,1.398406375
+2023-12-10,Montreal Canadiens,2.37
+2023-12-10,Columbus Blue Jackets,3.01
+2023-12-10,New Jersey Devils,2.29
+2023-12-10,New York Rangers,1.847457627
+2023-12-10,Washington Capitals,1.606060606
+2023-12-10,Chicago Blackhawks,2.36
+2023-12-10,Minnesota Wild,1.751879699
+2023-12-10,Nashville Predators,1.602409639
+2023-12-10,Winnipeg Jets,1.497512438
+2023-12-10,Anaheim Ducks,2.65
+2023-12-10,Edmonton Oilers,1.632911392
+2023-12-10,Los Angeles Kings,1.961538462
+2023-12-10,San Jose Sharks,3.51
+2023-12-10,Seattle Kraken,2.1
+2023-12-10,Vegas Golden Knights,1.310559006
+2023-12-11,Buffalo Sabres,1.769230769
+2023-12-11,Detroit Red Wings,2.77
+2023-12-11,Toronto Maple Leafs,1.787401575
+2023-12-11,New York Islanders,2.05
+2023-12-11,Arizona Coyotes,2.07
+2023-12-11,Colorado Avalanche,1.561797753
+2023-12-11,Dallas Stars,1.454545455
+2023-12-11,Calgary Flames,2.46
+2023-12-12,Tampa Bay Lightning,2.04
+2023-12-12,Detroit Red Wings,2.18
+2023-12-12,Florida Panthers,1.602409639
+2023-12-12,Ottawa Senators,2.12
+2023-12-12,Toronto Maple Leafs,2.52
+2023-12-12,Carolina Hurricanes,1.735294118
+2023-12-12,New York Rangers,1.537634409
+2023-12-12,Philadelphia Flyers,2.18
+2023-12-12,Pittsburgh Penguins,1.505050505
+2023-12-12,Arizona Coyotes,2.62
+2023-12-12,Chicago Blackhawks,4.58
+2023-12-12,Nashville Predators,1.699300699
+2023-12-12,St Louis Blues,1.689655172
+2023-12-12,Winnipeg Jets,1.462962963
+2023-12-12,Calgary Flames,2.6
+2023-12-12,Edmonton Oilers,1.207039337
+2023-12-12,San Jose Sharks,2.74
+2023-12-12,Seattle Kraken,2.36
+2023-12-12,Vancouver Canucks,1.8
+2023-12-12,Vegas Golden Knights,1.502512563
+2023-12-13,Boston Bruins,2.04
+2023-12-13,Buffalo Sabres,2.75
+2023-12-13,Montreal Canadiens,2.27
+2023-12-13,New Jersey Devils,1.787401575
+2023-12-13,New York Islanders,1.5
+2023-12-13,Pittsburgh Penguins,1.653594771
+2023-12-13,Colorado Avalanche,1.5
+2023-12-13,Winnipeg Jets,2.5
+2023-12-13,Anaheim Ducks,2.63
+2023-12-13,Los Angeles Kings,1.546448087
